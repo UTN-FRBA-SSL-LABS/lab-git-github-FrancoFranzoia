@@ -16,6 +16,7 @@ int restar(int a, int b) {
 /*Multiplica dos eneteros usando el operador de multiplicación * */
 int multiplicar(int a, int b) {
     return a * b; /* TODO: implementar */
+
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
