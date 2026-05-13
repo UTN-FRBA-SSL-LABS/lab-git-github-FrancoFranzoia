@@ -23,4 +23,7 @@ int multiplicar(int a, int b) {
 int esPar(int n) {
     return (n % 2) == 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of c99fc5f (wip: experimento roto)
